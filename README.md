@@ -1,25 +1,4 @@
-#Selenium Webdriver
->Explain the purpose of Seleniu-Webdriver and the different bindings available for it
-Use the Ruby binding to navigate to a page and conduct basic UI automation
-
-##What is Selenium Webdriver?
-lets us drive webrowsers
-####it can drive...
-*Adroid
-*Google Chrome
-*Firefox
-*IE
-*Safari
-*PhantomJS - headless browser
-
-####It can be scripted with...
--Java
--C#
--Phython
--Ruby
--PHP
--Pearl
--JavaScript
+#Cheat Sheet
 
 ##Selenium and Ruby
 
@@ -128,18 +107,4 @@ lets assume
 
     options.each {|o| o.click if o.text == "Choice }
     
-##Watir and Capybara
-
-Three kinds of automated web testing APIs
-
-Selenium = Beef
-Watir = Mince
-
-####Watir
--Browser API for Selenium
--Nice DSL
--PageObject available
--Built for Ruby
--Industry Standard
--unlike selenium, its built for ruby
 
